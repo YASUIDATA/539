@@ -1,0 +1,2 @@
+vless://6ba01924-5151-4f64-89f4-d23eccec59be@45.32.15.107:443/?type=tcp&security=reality&pbk=XwIE_dfI4hG9s1Kfj_0B9zG_FutuM86lug9oIRf01F4&fp=chrome&sni=www.softbank.jp&sid=e7d991a6cac0b601&spx=%2F&flow=xtls-rprx-vision#FAST-539
+vless://dd9cf19f-04c8-40a8-b522-094d34e61410@5.104.80.188:443/?type=tcp&security=reality&pbk=M47txNWsav3pjxSi-W1vEndurOzcsmSn1h9NlEqciXs&fp=chrome&sni=www.softbank.jp&sid=68&spx=%2F&flow=xtls-rprx-vision#FULL%20DUNG%20LUONG-539
